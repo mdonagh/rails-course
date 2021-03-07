@@ -1,7 +1,6 @@
 npm install
 npx honkit build
 rm -Rf ../course-book
-mkdir ../course-book
 mv _book ../course-book
 cd ../course-book
 
