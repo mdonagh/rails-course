@@ -34,6 +34,11 @@
     * [208](intermediate/208.md)
     * [209](intermediate/209.md)
     * [301](intermediate/301.md)
+    * [401](intermediate/401.md)
+    * [402](intermediate/402.md)
+    * [403](intermediate/403.md)
+    * [404](intermediate/404.md)
+    * [405](intermediate/405.md)
 * Javascript Course
     * [101](javascript/101.md)
     * [102](javascript/102.md)
